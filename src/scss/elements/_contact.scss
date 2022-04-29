@@ -1,0 +1,32 @@
+.contact{
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    h1{
+        text-align: center;
+        font-size: 25px;
+        font-family: $font;
+
+    }
+    h2{
+        margin-left: 10px;
+        color:black;
+    }
+    .contact_left{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+     a{
+        display: flex;
+          text-decoration: none;
+          font-size: 20px;
+          margin-top: 10px;
+       
+      }
+      .contact_icon{
+          color: $primaryColor;
+      }
+    }
+}
