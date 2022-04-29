@@ -47,9 +47,9 @@ const Article = () => {
                             </div>
                             <div className="photo">
                                 <div>
-                                <h2>null</h2>
-                                <p>null</p>
-                                <a href="https://github.com/sebastianpotoczak/BestShop" target="_blank" ><MdWebStories /></a>
+                                <h2>This site</h2>
+                                <p>Front-end</p>
+                                <a href="https://github.com/sebastianpotoczak/portfolio" target="_blank" ><MdWebStories /></a>
                              </div>
                             </div>
                             </div>
