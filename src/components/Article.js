@@ -61,7 +61,7 @@ const Article = () => {
             return(
                 <>
                   <section>
-                    
+                    <div className="skill_half">
                         <h1>Front-end</h1>
                      
                     <div className="main">
@@ -105,6 +105,8 @@ const Article = () => {
                             </div>
                       </div>
                       </div>
+                      </div>
+                      <div className="skill_half">
                             <h1>Back-end</h1>
                       <div className="main">
                       <div className="skill">
@@ -130,6 +132,7 @@ const Article = () => {
                                 <p>Mongoose</p>
                        
                             </div>
+                      </div>
                       </div>
                       </div>
                 </section>

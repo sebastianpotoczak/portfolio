@@ -1,6 +1,13 @@
 section{
-    height: 100%;
-    margin-top: 70px;
+    height: 70vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    
+
+    .skill_half{
+        margin-bottom: 25px;
+    }
  
 
     h1{
@@ -16,6 +23,7 @@ section{
         display: flex;
         justify-content: space-around;
         font-family: $font;
+        
        
        
    
